@@ -5,3 +5,6 @@
 Instrucciones
 - Para ejecutar el sistema es necesario:
 1. npm install react
+
+
+Versión 2
